@@ -1,0 +1,277 @@
+当前日期: 2022/05/16 周一 
+输入新日期: (年月日) 当前时间:  9:59:31.77
+输入新时间: 
+主机名:           DESKTOP-5HBC0NK
+OS 名称:          Microsoft Windows 10 家庭中文版
+OS 版本:          10.0.19044 暂缺 Build 19044
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     DELL
+注册的组织:       暂缺
+产品 ID:          00342-35486-49822-AAOEM
+初始安装日期:     2021/4/21, 16:24:55
+系统启动时间:     2022/5/16, 9:44:34
+系统制造商:       Dell Inc.
+系统型号:         G7 7590
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2592 Mhz
+BIOS 版本:        Dell Inc. 1.14.0, 2020/10/20
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     16,197 MB
+可用的物理内存:   9,855 MB
+虚拟内存: 最大值: 17,221 MB
+虚拟内存: 可用:   8,655 MB
+虚拟内存: 使用中: 8,566 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\DESKTOP-5HBC0NK
+修补程序:         安装了 12 个修补程序。
+                  [01]: KB5013624
+                  [02]: KB4562830
+                  [03]: KB4577586
+                  [04]: KB4580325
+                  [05]: KB5003791
+                  [06]: KB5013942
+                  [07]: KB5006753
+                  [08]: KB5007273
+                  [09]: KB5011352
+                  [10]: KB5011651
+                  [11]: KB5014032
+                  [12]: KB5005699
+网卡:             安装了 8 个 NIC。
+                  [01]: Sangfor SSL VPN CS Support System VNIC
+                      连接名:      以太网 2
+                      状态:        媒体连接已中断
+                  [02]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.32.1
+                        [02]: fe80::a9a6:e724:9078:9403
+                  [03]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.142.1
+                        [02]: fe80::607d:a7e0:f01c:681b
+                  [04]: Killer E2500 Gigabit Ethernet Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [05]: Killer(R) Wireless-AC 1550 Wireless Network Adapter (9260NGW) 160MHz
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.208.64.1
+                      IP 地址
+                        [01]: 10.208.67.63
+                        [02]: fe80::5d80:4a6c:ef6e:cece
+                        [03]: 2001:da8:1002:a001::6:fadb
+                  [06]: Bluetooth Device (Personal Area Network)
+                      连接名:      蓝牙网络连接
+                      状态:        媒体连接已中断
+                  [07]: Microsoft KM-TEST Loopback Adapter
+                      连接名:      Npcap Loopback Adapter
+                      状态:        没有硬件
+                  [08]: SVN Adapter V1.0
+                      连接名:      以太网 3
+                      状态:        没有硬件
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
+B i o s C h a r a c t e r i s t i c s                                                                                                                                           B I O S V e r s i o n                                                                                                         B u i l d N u m b e r     C a p t i o n     C o d e S e t     C u r r e n t L a n g u a g e     D e s c r i p t i o n     E m b e d d e d C o n t r o l l e r M a j o r V e r s i o n     E m b e d d e d C o n t r o l l e r M i n o r V e r s i o n     I d e n t i f i c a t i o n C o d e     I n s t a l l a b l e L a n g u a g e s     I n s t a l l D a t e     L a n g u a g e E d i t i o n     L i s t O f L a n g u a g e s                     M a n u f a c t u r e r     N a m e         O t h e r T a r g e t O S     P r i m a r y B I O S     R e l e a s e D a t e                                 S e r i a l N u m b e r     S M B I O S B I O S V e r s i o n     S M B I O S M a j o r V e r s i o n     S M B I O S M i n o r V e r s i o n     S M B I O S P r e s e n t     S o f t w a r e E l e m e n t I D     S o f t w a r e E l e m e n t S t a t e     S t a t u s     S y s t e m B i o s M a j o r V e r s i o n     S y s t e m B i o s M i n o r V e r s i o n     T a r g e t O p e r a t i n g S y s t e m     V e r s i o n                        
+ { 7 ,   9 ,   1 1 ,   1 2 ,   1 5 ,   1 6 ,   1 9 ,   2 0 ,   2 3 ,   2 4 ,   2 5 ,   2 6 ,   2 7 ,   2 8 ,   2 9 ,   3 2 ,   3 3 ,   3 9 ,   4 0 ,   4 1 ,   4 2 ,   4 3 }     { " D E L L       -   1 0 7 2 0 0 9 " ,   " 1 . 1 4 . 0 " ,   " A m e r i c a n   M e g a t r e n d s   -   5 0 0 0 D " }                               1 . 1 4 . 0                         e n | U S | i s o 8 8 5 9 - 1     1 . 1 4 . 0               2 5 5                                                           2 5 5                                                                                                   2                                                                                                       { " e n | U S | i s o 8 8 5 9 - 1 " ,   " " }     D e l l   I n c .           1 . 1 4 . 0                                   T R U E                   2 0 2 0 1 0 2 0 0 0 0 0 0 0 . 0 0 0 0 0 0 + 0 0 0     2 P 6 L H S 2               1 . 1 4 . 0                           3                                       2                                       T R U E                       1 . 1 4 . 0                           3                                           O K             1                                               1 4                                             0                                             D E L L       -   1 0 7 2 0 0 9      
+ A d d r e s s W i d t h     A r c h i t e c t u r e     A s s e t T a g                                 A v a i l a b i l i t y     C a p t i o n                                                                   C h a r a c t e r i s t i c s     C o n f i g M a n a g e r E r r o r C o d e     C o n f i g M a n a g e r U s e r C o n f i g     C p u S t a t u s     C r e a t i o n C l a s s N a m e     C u r r e n t C l o c k S p e e d     C u r r e n t V o l t a g e     D a t a W i d t h     D e s c r i p t i o n                                                           D e v i c e I D     E r r o r C l e a r e d     E r r o r D e s c r i p t i o n     E x t C l o c k     F a m i l y     I n s t a l l D a t e     L 2 C a c h e S i z e     L 2 C a c h e S p e e d     L 3 C a c h e S i z e     L 3 C a c h e S p e e d     L a s t E r r o r C o d e     L e v e l     L o a d P e r c e n t a g e     M a n u f a c t u r e r     M a x C l o c k S p e e d     N a m e                                                                             N u m b e r O f C o r e s     N u m b e r O f E n a b l e d C o r e     N u m b e r O f L o g i c a l P r o c e s s o r s     O t h e r F a m i l y D e s c r i p t i o n     P a r t N u m b e r                             P N P D e v i c e I D     P o w e r M a n a g e m e n t C a p a b i l i t i e s     P o w e r M a n a g e m e n t S u p p o r t e d     P r o c e s s o r I d               P r o c e s s o r T y p e     R e v i s i o n     R o l e     S e c o n d L e v e l A d d r e s s T r a n s l a t i o n E x t e n s i o n s     S e r i a l N u m b e r                         S o c k e t D e s i g n a t i o n     S t a t u s     S t a t u s I n f o     S t e p p i n g     S y s t e m C r e a t i o n C l a s s N a m e     S y s t e m N a m e               T h r e a d C o u n t     U n i q u e I d     U p g r a d e M e t h o d     V e r s i o n     V i r t u a l i z a t i o n F i r m w a r e E n a b l e d     V M M o n i t o r M o d e E x t e n s i o n s     V o l t a g e C a p s      
+ 6 4                         9                           T o   B e   F i l l e d   B y   O . E . M .     3                           I n t e l 6 4   F a m i l y   6   M o d e l   1 5 8   S t e p p i n g   1 0     2 5 2                                                                                                                               1                     W i n 3 2 _ P r o c e s s o r         2 5 9 2                               1 1                             6 4                   I n t e l 6 4   F a m i l y   6   M o d e l   1 5 8   S t e p p i n g   1 0     C P U 0                                                                             1 0 0               1 9 8                                     1 5 3 6                                               1 2 2 8 8                 0                                                         6             1 4                             G e n u i n e I n t e l     2 5 9 2                       I n t e l ( R )   C o r e ( T M )   i 7 - 9 7 5 0 H   C P U   @   2 . 6 0 G H z     6                             6                                         1 2                                                                                                   T o   B e   F i l l e d   B y   O . E . M .                                                                                         F A L S E                                           B F E B F B F F 0 0 0 9 0 6 E A     3                                                 C P U       T R U E                                                                           T o   B e   F i l l e d   B y   O . E . M .     U 3 E 1                               O K             3                                           W i n 3 2 _ C o m p u t e r S y s t e m           D E S K T O P - 5 H B C 0 N K     1 2                                           5 2                                             T R U E                                                       T R U E                                                                      
+ C a p a c i t y         D e v i c e L o c a t o r     M e m o r y T y p e     N a m e             T a g                                 T o t a l W i d t h      
+ 8 5 8 9 9 3 4 5 9 2     D I M M   A                   0                       irt匭X[    P h y s i c a l   M e m o r y   0     6 4                      
+ 8 5 8 9 9 3 4 5 9 2     D I M M   B                   0                       irt匭X[    P h y s i c a l   M e m o r y   1     6 4                      
+ A v a i l a b i l i t y     B y t e s P e r S e c t o r     C a p a b i l i t i e s     C a p a b i l i t y D e s c r i p t i o n s                                   C a p t i o n                                                           C o m p r e s s i o n M e t h o d     C o n f i g M a n a g e r E r r o r C o d e     C o n f i g M a n a g e r U s e r C o n f i g     C r e a t i o n C l a s s N a m e     D e f a u l t B l o c k S i z e     D e s c r i p t i o n     D e v i c e I D                         E r r o r C l e a r e d     E r r o r D e s c r i p t i o n     E r r o r M e t h o d o l o g y     F i r m w a r e R e v i s i o n     I n d e x     I n s t a l l D a t e     I n t e r f a c e T y p e     L a s t E r r o r C o d e     M a n u f a c t u r e r             M a x B l o c k S i z e     M a x M e d i a S i z e     M e d i a L o a d e d     M e d i a T y p e                                   M i n B l o c k S i z e     M o d e l                                                               N a m e                                 N e e d s C l e a n i n g     N u m b e r O f M e d i a S u p p o r t e d     P a r t i t i o n s     P N P D e v i c e I D                                                                                                       P o w e r M a n a g e m e n t C a p a b i l i t i e s     P o w e r M a n a g e m e n t S u p p o r t e d     S C S I B u s     S C S I L o g i c a l U n i t     S C S I P o r t     S C S I T a r g e t I d     S e c t o r s P e r T r a c k     S e r i a l N u m b e r                     S i g n a t u r e     S i z e                       S t a t u s     S t a t u s I n f o     S y s t e m C r e a t i o n C l a s s N a m e     S y s t e m N a m e               T o t a l C y l i n d e r s     T o t a l H e a d s     T o t a l S e c t o r s     T o t a l T r a c k s     T r a c k s P e r C y l i n d e r      
+                             5 1 2                           { 3 ,   4 }                 { " R a n d o m   A c c e s s " ,   " S u p p o r t s   W r i t i n g " }     S e a g a t e   E x p a n s i o n   S C S I   D i s k   D e v i c e                                           0                                               F A L S E                                         W i n 3 2 _ D i s k D r i v e                                             義豽q毃RhV      \ \ . \ P H Y S I C A L D R I V E 1                                                                                                         0 7 0 6                             1                                       S C S I                                                     ( h芉義豽q毃RhV)                                                             T R U E                   E x t e r n a l   h a r d   d i s k   m e d i a                                 S e a g a t e   E x p a n s i o n   S C S I   D i s k   D e v i c e     \ \ . \ P H Y S I C A L D R I V E 1                                                                                   1                       S C S I \ D I S K & V E N _ S E A G A T E & P R O D _ E X P A N S I O N \ 6 & 4 F 4 5 0 4 4 & 0 & 0 0 0 0 0 0                                                                                                                             0                 0                                 2                   0                           6 3                               N A 8 2 D 0 J 9                             9 1 3 1 7 9 5 5 0     2 0 0 0 3 9 6 3 2 1 2 8 0     O K                                     W i n 3 2 _ C o m p u t e r S y s t e m           D E S K T O P - 5 H B C 0 N K     2 4 3 2 0 1                     2 5 5                   3 9 0 7 0 2 4 0 6 5         6 2 0 1 6 2 5 5           2 5 5                                  
+                             5 1 2                           { 3 ,   4 }                 { " R a n d o m   A c c e s s " ,   " S u p p o r t s   W r i t i n g " }     K B G 3 0 Z M S 5 1 2 G   N V M e   T O S H I B A   5 1 2 G B                                                 0                                               F A L S E                                         W i n 3 2 _ D i s k D r i v e                                             義豽q毃RhV      \ \ . \ P H Y S I C A L D R I V E 0                                                                                                         A D D A 0 1 0 5                     0                                       S C S I                                                     ( h芉義豽q毃RhV)                                                             T R U E                   F i x e d   h a r d   d i s k   m e d i a                                       K B G 3 0 Z M S 5 1 2 G   N V M e   T O S H I B A   5 1 2 G B           \ \ . \ P H Y S I C A L D R I V E 0                                                                                   7                       S C S I \ D I S K & V E N _ N V M E & P R O D _ K B G 3 0 Z M S 5 1 2 G _ N V M \ 5 & 1 E D D 8 0 3 F & 0 & 0 0 0 0 0 0                                                                                                                   0                 0                                 0                   0                           6 3                               0 0 0 8 _ 0 D 0 4 _ 0 0 9 2 _ 4 B 1 7 .                           5 1 2 1 0 5 9 3 2 8 0 0       O K                                     W i n 3 2 _ C o m p u t e r S y s t e m           D E S K T O P - 5 H B C 0 N K     6 2 2 6 0                       2 5 5                   1 0 0 0 2 0 6 9 0 0         1 5 8 7 6 3 0 0           2 5 5                                  
+ 
+\\DESKTOP-5HBC0NK 的用户帐户
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           DELL                     
+Guest                    WDAGUtilityAccount       
+命令成功完成。
+
+
+Windows IP 配置
+
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 本地连接* 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+以太网适配器 VMware Network Adapter VMnet1:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::a9a6:e724:9078:9403%6
+   IPv4 地址 . . . . . . . . . . . . : 192.168.32.1
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+
+以太网适配器 VMware Network Adapter VMnet8:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::607d:a7e0:f01c:681b%16
+   IPv4 地址 . . . . . . . . . . . . : 192.168.142.1
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   IPv6 地址 . . . . . . . . . . . . : 2001:da8:1002:a001::6:fadb
+   本地链接 IPv6 地址. . . . . . . . : fe80::5d80:4a6c:ef6e:cece%21
+   IPv4 地址 . . . . . . . . . . . . : 10.208.67.63
+   子网掩码  . . . . . . . . . . . . : 255.255.192.0
+   默认网关. . . . . . . . . . . . . : fe80::200:5eff:fe00:101%21
+                                       10.208.64.1
+
+以太网适配器 以太网 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+以太网适配器 蓝牙网络连接:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+===========================================================================
+接口列表
+ 20...00 4e 01 a1 8e 0d ......Killer E2500 Gigabit Ethernet Controller
+  8...aa 6d aa 54 72 93 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  6...00 50 56 c0 00 01 ......VMware Virtual Ethernet Adapter for VMnet1
+ 16...00 50 56 c0 00 08 ......VMware Virtual Ethernet Adapter for VMnet8
+ 21...a8 6d aa 54 72 93 ......Killer(R) Wireless-AC 1550 Wireless Network Adapter (9260NGW) 160MHz
+  4...00 ff 09 99 e1 e1 ......Sangfor SSL VPN CS Support System VNIC
+ 19...a8 6d aa 54 72 97 ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 路由表
+===========================================================================
+活动路由:
+网络目标        网络掩码          网关       接口   跃点数
+          0.0.0.0          0.0.0.0      10.208.64.1     10.208.67.63     35
+      10.208.64.0    255.255.192.0            在链路上      10.208.67.63    291
+     10.208.67.63  255.255.255.255            在链路上      10.208.67.63    291
+   10.208.127.255  255.255.255.255            在链路上      10.208.67.63    291
+        127.0.0.0        255.0.0.0            在链路上         127.0.0.1    331
+        127.0.0.1  255.255.255.255            在链路上         127.0.0.1    331
+  127.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+     192.168.32.0    255.255.255.0            在链路上      192.168.32.1    291
+     192.168.32.1  255.255.255.255            在链路上      192.168.32.1    291
+   192.168.32.255  255.255.255.255            在链路上      192.168.32.1    291
+    192.168.142.0    255.255.255.0            在链路上     192.168.142.1    291
+    192.168.142.1  255.255.255.255            在链路上     192.168.142.1    291
+  192.168.142.255  255.255.255.255            在链路上     192.168.142.1    291
+        224.0.0.0        240.0.0.0            在链路上         127.0.0.1    331
+        224.0.0.0        240.0.0.0            在链路上      192.168.32.1    291
+        224.0.0.0        240.0.0.0            在链路上     192.168.142.1    291
+        224.0.0.0        240.0.0.0            在链路上      10.208.67.63    291
+  255.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+  255.255.255.255  255.255.255.255            在链路上      192.168.32.1    291
+  255.255.255.255  255.255.255.255            在链路上     192.168.142.1    291
+  255.255.255.255  255.255.255.255            在链路上      10.208.67.63    291
+===========================================================================
+永久路由:
+  无
+
+IPv6 路由表
+===========================================================================
+活动路由:
+ 接口跃点数网络目标                网关
+ 21    291 ::/0                     fe80::200:5eff:fe00:101
+  1    331 ::1/128                  在链路上
+ 21    291 2001:da8:1002:a001::6:fadb/128
+                                    在链路上
+  6    291 fe80::/64                在链路上
+ 16    291 fe80::/64                在链路上
+ 21    291 fe80::/64                在链路上
+ 21    291 fe80::5d80:4a6c:ef6e:cece/128
+                                    在链路上
+ 16    291 fe80::607d:a7e0:f01c:681b/128
+                                    在链路上
+  6    291 fe80::a9a6:e724:9078:9403/128
+                                    在链路上
+  1    331 ff00::/8                 在链路上
+  6    291 ff00::/8                 在链路上
+ 16    291 ff00::/8                 在链路上
+ 21    291 ff00::/8                 在链路上
+===========================================================================
+永久路由:
+  无
+请求的操作需要提升。
+
+显示和修改地址解析协议(ARP)使用的“IP 到物理”地址转换表。
+
+ARP -s inet_addr eth_addr [if_addr]
+ARP -d inet_addr [if_addr]
+ARP -a [inet_addr] [-N if_addr] [-v]
+
+  -a            通过询问当前协议数据，显示当前 ARP 项。
+                如果指定 inet_addr，则只显示指定计算机
+                的 IP 地址和物理地址。如果不止一个网络
+                接口使用 ARP，则显示每个 ARP 表的项。
+  -g            与 -a 相同。
+  -v            在详细模式下显示当前 ARP 项。所有无效项
+                和环回接口上的项都将显示。
+  inet_addr     指定 Internet 地址。
+  -N if_addr    显示 if_addr 指定的网络接口的 ARP 项。
+  -d            删除 inet_addr 指定的主机。inet_addr 可
+                以是通配符 *，以删除所有主机。
+  -s            添加主机并且将 Internet 地址 inet_addr
+                与物理地址 eth_addr 相关联。物理地址是用
+                连字符分隔的 6 个十六进制字节。该项是永久的。
+  eth_addr      指定物理地址。
+  if_addr       如果存在，此项指定地址转换表应修改的接口
+                的 Internet 地址。如果不存在，则使用第一
+                个适用的接口。
+
+接口: 192.168.32.1 --- 0x6
+  Internet 地址         物理地址              类型
+  192.168.32.255        ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.11.20.1           01-00-5e-0b-14-01     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+
+接口: 192.168.142.1 --- 0x10
+  Internet 地址         物理地址              类型
+  192.168.142.255       ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.11.20.1           01-00-5e-0b-14-01     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+
+接口: 10.208.67.63 --- 0x15
+  Internet 地址         物理地址              类型
+  10.208.64.1           00-00-5e-00-01-01     动态        
+  10.208.127.255        ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.11.20.1           01-00-5e-0b-14-01     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态        
